@@ -1,0 +1,31 @@
+Title: “E-Library Management System”
+Group Members: 
+Developers:
+Usman Khalil 4533
+Umair Azmat 4523
+Noman Mazhar 4520
+
+Scope:
+This project is basically updating the manual library system into a web based application so that the users can know the details of their account, availability of books etc. Product Characteristics and Requirements:
+1. Secured database. 
+2. User tracking 
+3. Search feature 
+4. Calculating fines 
+5. Checking the availability of books. 
+6. Students will get an E-mail before the due date in order to avoid fines 
+
+Introduction
+The project titled “E-Library Management System” is a Library management software for monitoring and controlling the transactions in a library. The project “Library Management System” is developed in JavaScript, which mainly focuses on basic operations in a library like adding new member, new books, and updating new information, searching books and members to borrow and return books. “Library Management System” is a web base application and support on all web browser, designed to help users maintain and organize library. Our application is easy to use for both beginners and advanced users. It features a familiar and well thought-out, an attractive user interface
+
+
+
+Modules/Functionality
+The software Library Management System has four main modules.
+ 1. Insertion to Database Module - User friendly input screen
+ 2. Extracting from Database module – Attractive Output Screen
+ 3. Report Generation module – borrowed book list & Available book list
+ 4. Search Facility system – search for books and members
+Audience 
+Audience includes students, lecturers, and librarians as library management system users.
+Model Used
+Water fall Model
